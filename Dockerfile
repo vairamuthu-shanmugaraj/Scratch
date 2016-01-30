@@ -1,4 +1,4 @@
-FROM scratch
+FROM vairamuthushanmugaraj/scratch:scratch
 ADD ubuntu-precise-core-cloudimg-amd64-root.tar.gz /
 
 # a few minor docker-specific tweaks
